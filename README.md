@@ -1,4 +1,7 @@
 # pod-repo
+1.8版本后 cocoapods repo现在有cdn加速了，推荐使用cdn模式
+以下镜像不再推荐
+
 cocoapods pod repo 镜像源汇总
 ```
 亲测可用
